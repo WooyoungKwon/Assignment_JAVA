@@ -1,4 +1,4 @@
-package challenge.two;
+package Stream;
 
 import java.util.List;
 import java.util.stream.IntStream;
